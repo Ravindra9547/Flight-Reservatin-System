@@ -1,0 +1,5 @@
+2023-03-24 00:31:55.377  INFO 12448 --- [RMI TCP Connection(180)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-03-24 00:31:55.973  INFO 12448 --- [RMI TCP Connection(180)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-03-24 00:31:56.133  INFO 12448 --- [RMI TCP Connection(180)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-03-24 00:31:56.181  INFO 12448 --- [RMI TCP Connection(180)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-03-24 00:31:56.256  INFO 12448 --- [RMI TCP Connection(180)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
